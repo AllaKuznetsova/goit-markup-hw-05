@@ -199,6 +199,7 @@
     text-decoration: none;
     letter-spacing: 0.06em;
     border: none;
+    cursor: pointer;
   }
   
   .btn-portfolio {
@@ -210,6 +211,7 @@
     padding-bottom: 50px;
     margin: 0;
     padding-left: 0;
+    
   }
   .btn-portfolio-item {
     background-color: var(--button-bgr);
@@ -278,9 +280,9 @@
     margin-top: 0;
   }
   .selection-text {
-    
     letter-spacing: 0.03em;
     width: 270px;
+    line-height: 1.411;
   }
   .section li {
     list-style: none;
